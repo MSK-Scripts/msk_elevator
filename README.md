@@ -7,6 +7,6 @@ Simple Elevator Script with ox_lib Menu
 * Set multiple Locations
 * You can allow vehicles or not
 
-## Reqirements
+## Requirements
 * [ESX Legacy](https://github.com/esx-framework/esx_core)
 * [ox_lib](https://github.com/overextended/ox_lib)
